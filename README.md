@@ -26,7 +26,6 @@
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="DilmurodDeveloper's Stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilmurodDeveloper&theme=tokyonight&hide_border=false" alt="DilmurodDeveloper's Streak">
 </div>
 
 </div>
