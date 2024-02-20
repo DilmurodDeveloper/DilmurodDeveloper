@@ -21,7 +21,14 @@
   
  
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
- 
+
+<h1>DilmurodDeveloper's GitHub Stats</h1>
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="DilmurodDeveloper's Stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilmurodDeveloper&theme=tokyonight&hide_border=false" alt="DilmurodDeveloper's Streak">
+</div>
+
 </div>
 
 <!--
