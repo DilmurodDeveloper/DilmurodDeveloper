@@ -1,46 +1,52 @@
+# Hi there, I am Dilmurod 👋
+If you are looking for Professional .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
 
-### Hi there 👋
-<h3 align="center">
-   Assalomu alaykum.
-  Welcome to my profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+The skills I can offer you include (but not limited to) Web API, ASP.NET MVC, Azure, C# and T-SQL. My experience ensures that you can launch your ideal .NET project on time.
 
-<p align="center">
-    <a href="https://github.com/radjabov/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
-</p>
+I can help you out with:
 
- </br>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/dilmurod-madirimov-70769a1b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://t.me/DilmurodDeveloper" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- <a href = "mailto:madirimovdilmurod2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
- 
-  ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
+→ Web apps and APIs
 
-<h1>DilmurodDeveloper's GitHub Stats</h1>
+→ Creating Intranet systems
 
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="DilmurodDeveloper's Stats">
-</div>
+→ Deployment to Azure
 
-</div>
+→ Telegram bots
 
-<!--
-**DilmurodDeveloper/dilmuroddeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+→ Unit, Acceptance and Integration testing
+Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
 
-Here are some ideas to get you started:
+Looking forward to hearing from you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/dilmurod-madirimov-70769a1b9/) | [Telegram](https://t.me/DilmurodDeveloper)  
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DilmurodDeveloper">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DilmurodDeveloper">
+          <img align="center" src="https://streak-stats.demolab.com?user=DilmurodDeveloper&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+    </td>
+  </tr>
+</table>
+<br />
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=dark)
