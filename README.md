@@ -1,52 +1,31 @@
-# Hi there, I am Dilmurod 👋
-If you are looking for Professional .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
-The skills I can offer you include (but not limited to) Web API, ASP.NET MVC, Azure, C# and T-SQL. My experience ensures that you can launch your ideal .NET project on time.
+<h1 align="center">Hi 👋, I'm Dilmurod</h1>
+<h3 align="center">Software Engineer</h3>
 
-I can help you out with:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-→ Web apps and APIs
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmuroddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="dilmuroddeveloper" /> </p>
 
-→ Creating Intranet systems
+<p align="left"> <a href="https://twitter.com/madirimofff" target="blank"><img src="https://img.shields.io/twitter/follow/madirimofff?logo=twitter&style=for-the-badge" alt="madirimofff" /></a> </p>
 
-→ Deployment to Azure
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/DilmurodDeveloper)
 
-→ Telegram bots
+- 📫 How to reach me **madirimovdilmurod2@gmail.com**
 
-→ Unit, Acceptance and Integration testing
-Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
+- ⚡ Fun fact: **The first programming language was called FORTRAN 👀**
 
-Looking forward to hearing from you.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dilmurodmadirimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dilmuroddeveloper" height="30" width="40" /></a>
+<a href="https://twitter.com/madirimofff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madirimofff" height="30" width="40" /></a>
+</p>
 
-[Linkedin](https://www.linkedin.com/in/dilmurod-madirimov-70769a1b9/) | [Telegram](https://t.me/DilmurodDeveloper)  
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DilmurodDeveloper">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DilmurodDeveloper">
-          <img align="center" src="https://streak-stats.demolab.com?user=DilmurodDeveloper&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-    </td>
-  </tr>
-</table>
-<br />
-
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilmuroddeveloper&show_icons=true&locale=en&layout=compact" alt="dilmuroddeveloper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilmuroddeveloper&show_icons=true&locale=en" alt="dilmuroddeveloper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilmuroddeveloper&" alt="dilmuroddeveloper" /></p>
