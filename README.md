@@ -89,5 +89,9 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=dilmuroddeveloper&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" /> </p> <p align="start"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilmuroddeveloper&theme=radical" alt="GitHub Streak" /> </p> 
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=dilmuroddeveloper&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" /> </p> 
 <p align="start"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmuroddeveloper&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="start" >
+  <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" >
+  </a>
+</p>
