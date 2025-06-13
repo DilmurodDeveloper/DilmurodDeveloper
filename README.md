@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/DilmurodDeveloper">
@@ -50,17 +50,21 @@
   </tr>
 </table>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-night-rainbow.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-season-animate.svg"
-  />
-  <img
-    alt="github contribution grid 3D animation"
-    src="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-south-season-animate.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-night-rainbow.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-season-animate.svg"
+    />
+    <img
+      alt="github contribution grid 3D animation"
+      src="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-south-season-animate.svg"
+      width="80%"
+    />
+  </picture>
+</p>
+
