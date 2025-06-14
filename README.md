@@ -63,7 +63,7 @@
     <img
       alt="github contribution grid 3D animation"
       src="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-south-season-animate.svg"
-      width="80%"
+      width="90%"
     />
   </picture>
 </p>
