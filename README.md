@@ -49,22 +49,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-night-rainbow.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-season-animate.svg"
-    />
-    <img
-      alt="github contribution grid 3D animation"
-      src="https://raw.githubusercontent.com/DilmurodDeveloper/DilmurodDeveloper/output3d/profile-south-season-animate.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
