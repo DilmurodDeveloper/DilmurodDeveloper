@@ -7,13 +7,13 @@
 
 <p align="center">
   I’m passionate about clean code, scalable backend systems, and solving challenging algorithmic problems. I enjoy learning new technologies and contributing to open-source.
-</p> <br>
+</p>
 
 ## 🎓 Education
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓%20Tashkent University of Information Technologies-Bachelor%20in%20Software%20Engineering-blue?style=for-the-badge" alt="TUIT Badge" />
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/🧑‍💻%20MohirDev-.NET%20Backend%20Development%20%7C%20Certified-blue?style=for-the-badge" alt="MohirDev Badge" />
 </p> <br>
 
