@@ -68,7 +68,7 @@
 
 ## 🐍 My Contribution Snake
 
-![Contribution Snake](https://github.com/dilmuroddev/dilmuroddev/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/dilmuroddeveloper/dilmuroddeveloper/blob/output/github-contribution-grid-snake.svg)
 
 ## 📬 Contact
 
