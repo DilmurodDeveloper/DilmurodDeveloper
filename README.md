@@ -1,5 +1,3 @@
-<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding Passion GIF" width="100%" />
-
 # <p align="center">👋 Hi there! I'm Dilmurod</p>
 
 <p align="center">
