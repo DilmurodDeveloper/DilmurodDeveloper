@@ -7,8 +7,7 @@
 
 <p align="center">
   I’m passionate about clean code, scalable backend systems, and solving challenging algorithmic problems. I enjoy learning new technologies and contributing to open-source.
-</p>
-<br>
+</p> <br>
 
 ## 🎓 Education
 
@@ -16,8 +15,7 @@
   <img src="https://img.shields.io/badge/🎓%20Tashkent University of Information Technologies-Bachelor%20in%20Software%20Engineering-blue?style=for-the-badge" alt="TUIT Badge" />
   <br><br>
   <img src="https://img.shields.io/badge/🧑‍💻%20MohirDev-.NET%20Backend%20Development%20%7C%20Certified-blue?style=for-the-badge" alt="MohirDev Badge" />
-</p>
-<br>
+</p> <br>
 
 ## 🛠 Technologies & Skills & Concepts
 
@@ -44,8 +42,7 @@
   <img src="https://img.shields.io/badge/-SOLID-1ABC9C?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/-CI%2FCD-0088CC?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
-
+</p> <br>
 
 ## 📈 GitHub Stats & Achievements
 
@@ -60,15 +57,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="265" />
       </td>
     </tr>
-  </table>
-  <br>
+  </table> <br>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=DilmurodDeveloper&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+</p> <br>
 
 ## 🐍 My Contribution Snake
 
-![Snake animation](https://github.com/DilmurodDeveloper/DilmurodDeveloper/blob/output/snake.svg)
+![Snake animation](https://github.com/DilmurodDeveloper/DilmurodDeveloper/blob/output/snake.svg) <br>
 
 ## 📬 Contact
 
@@ -85,4 +81,3 @@
     <img src="https://img.shields.io/badge/Telegram-@DilmurodDeveloper-0088CC?style=flat" alt="Telegram" />
   </a>
 </p>
-
