@@ -1,7 +1,10 @@
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding Passion GIF" width="100%" />
+
 # <p align="center">👋 Hi there! I'm Dilmurod</p>
 
 <p align="center">
-  <strong>Software engineer | .NET Backend Developer</strong>
+  <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge" alt="Software Engineer Badge" />
+  <img src="https://img.shields.io/badge/Junior%20.NET%20Backend%20Developer-blue?style=for-the-badge" alt="Junior .NET Backend Developer Badge" />
 </p>
 
 <p align="center">
@@ -11,10 +14,10 @@
 
 ## 🎓 Education
 
-<p>
-  <img src="https://img.shields.io/badge/🎓%20Tashkent University of Information Technologies-Bachelor%20in%20Software%20Engineering-0A66C2?style=for-the-badge" alt="TUIT Badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20Tashkent University of Information Technologies-Bachelor%20in%20Software%20Engineering-blue?style=for-the-badge" alt="TUIT Badge" />
   <br><br>
-  <img src="https://img.shields.io/badge/🧑‍💻%20MohirDev-.NET%20Backend%20Development%20%7C%20Certified-00B4D8?style=for-the-badge" alt="MohirDev Badge" />
+  <img src="https://img.shields.io/badge/🧑‍💻%20MohirDev-.NET%20Backend%20Development%20%7C%20Certified-blue?style=for-the-badge" alt="MohirDev Badge" />
 </p>
 <br>
 
@@ -49,7 +52,7 @@
 ## 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="350" />
@@ -60,11 +63,9 @@
       </td>
     </tr>
   </table>
-
-  <p> 
-    
+  <br>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=DilmurodDeveloper&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  </p>
 </p>
 
 
