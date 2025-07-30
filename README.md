@@ -46,8 +46,8 @@
 
 ## 📈 GitHub Stats & Achievements
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DilmurodDeveloper&theme=radical" width="47.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="45%"/> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DilmurodDeveloper&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="46%"/> 
 </div>
 <br>
 <div align="center">
