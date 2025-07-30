@@ -45,39 +45,29 @@
 </p> <br>
 
 ## 📈 GitHub Stats & Achievements
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DilmurodDeveloper&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="466"/> 
+</div>
+<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="40%" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilmurodDeveloper&theme=tokyo-night" width="58%" height="200"/>
+</div>  
+<br> 
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="350" />
-      </td>
-      <td width="30"></td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="265" />
-      </td>
-    </tr>
-  </table> <br>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DilmurodDeveloper&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</p> <br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DilmurodDeveloper&theme=radical&no-frame=true"/>
+</div>  
+<br>
 
 ## 🐍 My Contribution Snake
 
-![Snake animation](https://github.com/DilmurodDeveloper/DilmurodDeveloper/blob/output/snake.svg) <br>
+![Snake animation](https://github.com/DilmurodDeveloper/DilmurodDeveloper/blob/output/snake.svg) 
+<br>
 
-## 📬 Contact
+## 📫 Contact Me
 
-<p align="start">
-  <a href="mailto:madirimovdilmurod2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-madirimovdilmurod2@gmail.com-c14438?style=flat" alt="Email" />
-  </a>
-  <br>
-  <a href="https://linkedin.com/in/dilmurodmadirimov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dilmurod%20Madirimov-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br>
-  <a href="https://t.me/DilmurodDeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@DilmurodDeveloper-0088CC?style=flat" alt="Telegram" />
-  </a>
-</p>
+- 📧 Email: madirimovdilmurod2@gmail.com
+- 💬 Telegram: [@DilmurodDeveloper](https://t.me/DilmurodDeveloper)
+- 💼 LinkedIn: [Dilmurod Madirimov](https://www.linkedin.com/in/dilmurodmadirimov)
