@@ -51,8 +51,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="47%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilmurodDeveloper&theme=tokyo-night" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="37%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilmurodDeveloper&theme=tokyo-night" width="58%" />
 </div>  
 <br> 
 
