@@ -46,12 +46,12 @@
 
 ## 📈 GitHub Stats & Achievements
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DilmurodDeveloper&theme=radical" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="50%"/> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DilmurodDeveloper&theme=radical" width="47.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DilmurodDeveloper&show_icons=true&theme=radical" width="45%"/> 
 </div>
 <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="40%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDeveloper&layout=compact&theme=radical" width="40%" height="199"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilmurodDeveloper&theme=tokyo-night" width="58%" height="200"/>
 </div>  
 <br> 
