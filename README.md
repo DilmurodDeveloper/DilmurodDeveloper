@@ -1,8 +1,8 @@
 # <p align="center">👋 Hi there! I'm Dilmurod</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge" alt="Software Engineer Badge" />
-  <img src="https://img.shields.io/badge/Junior%20.NET%20Backend%20Developer-blue?style=for-the-badge" alt="Junior .NET Backend Developer Badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-forestgreen?style=for-the-badge" alt="Software Engineer Badge" />
+  <img src="https://img.shields.io/badge/Junior%20.NET%20Backend%20Developer-forestgreen?style=for-the-badge" alt="Junior .NET Backend Developer Badge" />
 </p>
 
 <p align="center">
